@@ -5,7 +5,7 @@ simple Nagios Check - checks if a websocket is running
 
 only tested against socket.io!
 
-Installation
+<h2>Installation</h2>
 
 1. create a directory for the check, e.g. "mkdir websocket_check"
 2. install socket.io-client in this directory, e.g. "npm instal socket.io-client"<br>
