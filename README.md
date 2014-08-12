@@ -17,3 +17,4 @@ only tested against socket.io!
 
 For performance-monitoring I suggest to integrate https://github.com/lorenwest/node-monitor . Maybe I will add performance in the next version.
 
+<b>Caution</b> Output-Format is check-mk style! If you need standard-Nagios pls change the two ouput-lines.
